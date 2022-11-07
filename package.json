@@ -1,0 +1,14 @@
+{
+  "name": "eth-gen-custom-wallet",
+  "version": "1.0.0",
+  "description": "Ethereum generate custom wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0x3ndy",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
